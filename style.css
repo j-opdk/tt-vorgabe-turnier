@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#input {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#form {
+    margin-bottom: 20px;
+}
+
+#output {
+    text-align: center;
+}
